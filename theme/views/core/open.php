@@ -85,7 +85,7 @@ $GLOBALS['pageTitle'] = $info['title'];
   <meta name="rating" content="general" />
   <meta name="distribution" content="global" />
   <meta name="resource-type" content="document" />
-  <link rel="shortcut icon" type="image/icon" href="<?= theme('images/favicon.png'); ?>" />
+  <link rel="shortcut icon" type="image/icon" href="<?= theme('images/logbyaz.png'); ?>" />
 
   <meta name="googlebot" content="index,follow" />
   <meta name="robots" content="index,follow" />

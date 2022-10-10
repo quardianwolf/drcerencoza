@@ -40,7 +40,7 @@ $twitter = str_replace('-', '', str_replace(')', '', str_replace('(', '', str_re
                   </div>
                   <div class="content-element-6">
                     <p>
-                    <?= $about[0]->summary; ?>
+                    <?= $about[0]->content; ?>
                     </p>
                   </div>
                   <div class="mad-social-icons size-2">
