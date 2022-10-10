@@ -20,6 +20,8 @@
   <link rel="stylesheet" href="<?= theme('css/animate.min.css'); ?>">
   <link rel="stylesheet" href="<?= theme('css/responsive.css'); ?>">
 
+  <script src="https://cdn.tailwindcss.com"></script>
+
 <?php else : ?>
 
   <link rel="stylesheet" href="<?= theme('dist/client_all_styles.min.css'); ?>" />

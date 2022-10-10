@@ -398,32 +398,32 @@ h6:not(:last-child) {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 24px !important;
   line-height: 2rem;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 24px !important;
   line-height: 2rem;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 24px !important;
   line-height: 30px;
 }
 
 h4 {
-  font-size: 24px;
+  font-size: 24px !important;
   line-height: 30px;
 }
 
 h5 {
-  font-size: 1.875rem;
+  font-size: 1.875rem !important;
   line-height: 2.5rem;
 }
 
 h6 {
-  font-size: 24px;
+  font-size: 24px !important;
   line-height: 1rem;
 }
 

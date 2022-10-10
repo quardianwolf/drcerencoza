@@ -11,7 +11,11 @@ module.exports = {
         },
         
         
-      extend: { container: {
+      extend:{
+        colors: {
+          'tema': '#7e6561',
+        },
+         container: {
         center: true,
       },},
     },
